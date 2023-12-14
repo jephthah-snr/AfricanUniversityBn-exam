@@ -5,7 +5,7 @@
 
 ## General Instructions
 
-1. **Duration:** The total duration for this exam is 5hrs minutes.
+1. **Duration:** The total duration for this exam is 5hrs 0 minutes.
 2. **Total Marks:** The exam is out of a total of 100 marks.
 3. **Passing Grade:** To pass this exam, you need to score at least 70 marks.
 
