@@ -1,4 +1,4 @@
-# **AFRICAN UNIVERSITY OF BENIN (cotonou)**
+# **AFRICAN UNIVERSITY OF BENIN**
 
 
 # Exam Instructions
