@@ -92,8 +92,8 @@ const supermarketProducts = [
 
 //Question [40Mks]
 
-
-arr = [
+//5.
+let arr = [
     11  3  6
     9   5   8
     10  7 -12
