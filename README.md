@@ -29,4 +29,4 @@
 
 15. **Violation of Rules:** Any violation of exam rules, including cheating use of chatGPT will get and instant 0, i am not bluffing, may result in disqualification from the exam.
 
-Good luck with your exam!
+Good luck with your exams!
